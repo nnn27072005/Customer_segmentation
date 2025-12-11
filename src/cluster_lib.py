@@ -214,7 +214,6 @@ class FeatureEngineer:
         )
 
         print("Feature scaling completed.")
-        joblib.dump(scaler, '../data/processed/scaler.pkl')
         return self.customer_features_scaled
     
     def plot_feature_boxplots(self, transformed: bool = False, save_path: str = None):
