@@ -21,17 +21,16 @@ Link Demo App: [Thêm link Streamlit của bạn vào đây sau khi deploy]
 - **Machine Learning:** Scikit-learn (K-Means Clustering, Silhouette Score)
 - **Deployment:** Streamlit Cloud
 
-## 📊 Kết quả Phân tích (Key Insights)
-*Mô hình đã phân chia khách hàng thành 5 nhóm chính:*
-1.  **Nhóm Cẩn trọng (Tiết kiệm):** Thu nhập thấp, Chi tiêu thấp. -> *Chiến lược: Khuyến mãi giá rẻ.*
-2.  **Nhóm Tiêu chuẩn:** Thu nhập trung bình, Chi tiêu trung bình. -> *Chiến lược: Giữ chân bằng CSKH chuẩn.*
-3.  **Nhóm Mục tiêu (Tiềm năng):** Thu nhập cao, Chi tiêu thấp. -> *Chiến lược: Kích cầu mua sắm bằng sản phẩm cao cấp.*
-4.  **Nhóm Phóng khoáng (Rủi ro):** Thu nhập thấp, Chi tiêu cao. -> *Chiến lược: Giới thiệu các gói trả góp, thẻ thành viên.*
-5.  **Nhóm VIP:** Thu nhập cao, Chi tiêu cao. -> *Chiến lược: Dịch vụ đặc biệt, thẻ đen, ưu đãi độc quyền.*
 
 ## 🚀 Hướng dẫn cài đặt (Installation)
 
 1. Clone repository:
-```bash
-git clone [https://github.com/nnn27072005/Customer_segmentation.git](https://github.com/nnn27072005/Customer_segmentation.git)
-cd Customer_segmentation
+   ```bash
+  git clone [https://github.com/nnn27072005/Customer_segmentation.git](https://github.com/nnn27072005/Customer_segmentation.git)
+  cd Customer_segmentation
+3. Run app
+  ```bash
+  cd app
+  streamlit run app.py
+
+
