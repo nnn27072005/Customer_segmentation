@@ -28,7 +28,7 @@ Link Demo App: [Thêm link Streamlit của bạn vào đây sau khi deploy]
    ```bash
    git clone https://github.com/nnn27072005/Customer_segmentation
    cd Customer_segmentation
-3. Run app
+2. Run app
   ```bash
   cd app
   streamlit run app.py
