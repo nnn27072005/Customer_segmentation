@@ -26,8 +26,8 @@ Link Demo App: [Thêm link Streamlit của bạn vào đây sau khi deploy]
 
 1. Clone repository:
    ```bash
-  git clone [https://github.com/nnn27072005/Customer_segmentation.git](https://github.com/nnn27072005/Customer_segmentation.git)
-  cd Customer_segmentation
+   git clone https://github.com/nnn27072005/Customer_segmentation
+   cd Customer_segmentation
 3. Run app
   ```bash
   cd app
