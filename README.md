@@ -7,7 +7,7 @@
 ## 📖 Giới thiệu (Introduction)
 Dự án này xây dựng hệ thống phân khúc khách hàng tự động sử dụng thuật toán **K-Means Clustering**. Mục tiêu là giúp doanh nghiệp/bộ phận Marketing hiểu rõ hơn về cơ sở khách hàng, từ đó đưa ra các chiến lược tiếp thị mục tiêu (Targeted Marketing) phù hợp cho từng nhóm, tối ưu hóa chi phí và gia tăng doanh thu.
 
-Link Demo App: [Thêm link Streamlit của bạn vào đây sau khi deploy]
+Link Demo App: http://192.168.140.99:8501/
 
 ## 🎯 Mục tiêu Kinh doanh (Business Objectives)
 - **Phân nhóm khách hàng:** Tự động chia khách hàng thành các nhóm dựa trên hành vi mua sắm (Thu nhập, Điểm chi tiêu, Tuổi tác).
